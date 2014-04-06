@@ -508,7 +508,7 @@ Nebudu podporovat
 
 119
 00:06:37,505 --> 00:06:41,420
-tím , že si postavím
+tím, že si postavím
 jejich pobočku v mé vlastní hlavě
 
 120
