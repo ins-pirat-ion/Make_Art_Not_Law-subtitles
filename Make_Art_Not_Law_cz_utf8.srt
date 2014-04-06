@@ -42,7 +42,7 @@ a vystupuje jako Vaše vyjádření
 
 11
 00:00:43,988 --> 00:00:49,767
-s pomocí Vašeho hlasu
+s pomocí Vašeho hlasu,
 kresby, psaní a pohybů
 
 12
