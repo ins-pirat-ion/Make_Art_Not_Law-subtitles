@@ -261,7 +261,8 @@ znamená, že nemám kontrolu nad vším
 
 62
 00:03:39,434 --> 00:03:42,231
-co do mě může vstupovat a také vstupuje
+co do mě může vstupovat
+a také vstupuje
 
 63
 00:03:42,834 --> 00:03:44,895
@@ -368,8 +369,8 @@ za sdílení této písně a klipu
 
 88
 00:04:50,077 --> 00:04:54,762
-zda mi může to jejich
-„intelektuální vlastnictví” vstřelit do hlavy
+zda mi může vstřelit do hlavy to jejich
+„intelektuální vlastnictví”
 
 89
 00:04:54,862 --> 00:05:00,958
@@ -444,11 +445,13 @@ Licence mají bohužel za následek
 
 105
 00:05:47,539 --> 00:05:50,814
-že lidé věnují Copyrightu ještě více pozornosti
+že lidé věnují Copyrightu
+ještě více pozornosti
 
 106
 00:05:51,013 --> 00:05:54,506
-což ještě více posiluje onoho vnitřního cenzora
+což ještě více posiluje
+onoho vnitřního cenzora
 
 107
 00:05:54,687 --> 00:05:58,363
@@ -523,7 +526,8 @@ dle licence co na ně lidé přišpendlili
 
 123
 00:06:51,671 --> 00:06:54,612
-Teď se prostě zabývám nápady samotnými
+Teď se prostě
+zabývám nápady samotnými
 
 124
 00:06:54,712 --> 00:06:56,874
@@ -531,7 +535,8 @@ a ne zákony, které je obklopují
 
 125
 00:06:56,974 --> 00:07:00,794
-A snažím se vyjadřovat stejným způsobem
+A snažím se
+vyjadřovat stejným způsobem
 
 126
 00:07:01,749 --> 00:07:06,548
@@ -545,4 +550,9 @@ doufám, že se přidáte i Vy
 128
 00:07:08,659 --> 00:07:11,700
 Dělejte umění ne zákony!
+
+129
+00:07:13,188 --> 00:07:17,352
+České titulky
+filip.krska@pirati.cz
 
